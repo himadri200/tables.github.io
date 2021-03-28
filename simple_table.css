@@ -1,0 +1,15 @@
+table, th, td {
+    border:3px solid rgb(247, 4, 16);
+    border-spacing:1px ;
+    padding:25px;
+    
+}
+table{
+    background:rgb(109, 128, 0);
+    text-align: auto;
+    margin:auto;
+    margin-top: 80px;
+}
+body{
+    background:white;
+}
